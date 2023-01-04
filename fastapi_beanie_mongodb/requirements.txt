@@ -1,0 +1,12 @@
+pip==22.3.1
+setuptools==65.5.1
+wheel==0.38.4
+
+uvicorn~=0.20.0
+
+fastapi~=0.88.0
+
+beanie~=1.16.7
+pydantic~=1.10.4
+
+motor~=3.1.1
